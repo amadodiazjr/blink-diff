@@ -34,17 +34,24 @@
   },
   "dependencies": {
     "pngjs-image": "~0.11.5",
-    "preceptor-core": "~0.10.0",
-    "promise": "6.0.0"
+    "preceptor-core": "0.10.1",
+    "promise": "6.0.0",
+    "qs": "1.0.0",
+    "js-yaml": "3.13.1",
+    "tunnel-agent": "0.6.0",
+    "hoek": "4.2.1",
+    "mime": "2.0.3"
   },
   "devDependencies": {
     "chai": "1.9.2",
-    "coveralls": "2.11.2",
-    "codeclimate-test-reporter": "0.0.4",
-    "istanbul": "0.3.2",
-    "mocha": "1.21.4",
+    "codeclimate-test-reporter": "0.5.1",
+    "coveralls": "^3.0.8",
+    "istanbul": "0.4.5",
+    "mocha": "^6.2.2",
     "sinon": "1.12.2",
     "sinon-chai": "2.7.0",
-    "yuidocjs": "0.3.50"
+    "yuidocjs": "^0.10.2",
+    "handlebars": "4.5.3",
+    "minimatch": "3.0.2"
   }
 }
